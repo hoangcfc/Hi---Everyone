@@ -1,2 +1,2 @@
-# Hi---Everyone
-Đơn Giản - Tích Cực - Hữu Ích
+#Hello - Everyone 
+Đơn Giản - Tích Cực - Hữu ích 
